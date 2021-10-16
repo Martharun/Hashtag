@@ -10,22 +10,22 @@ html ,body{
 /*font n°1*/
 @font-face{
   font-family:"Louis George Cafe Bold";
-  src: url("Assets/fonts/Louis George Cafe Bold.ttf") format("TrueType");
+  src: url("Louis George Cafe Bold.ttf") format("TrueType");
 }
 /*font n°2*/
 @font-face{
   font-family:"Louis George Cafe";
-  src: url("Assets/fonts/Louis George Cafe.ttf") format("TrueType");
+  src: url("Louis George Cafe.ttf") format("TrueType");
 }
 /*font n°3*/
 @font-face{
   font-family:"coolvetica rg";
-  src: url("Assets/fonts/coolvetica rg.ttf") format("TrueType");
+  src: url("coolvetica rg.ttf") format("TrueType");
 }
 /*font n°4*/
 @font-face{
   font-family:"Fishermans";
-  src: url("Assets/fonts/Fishermans.ttf") format("TrueType");
+  src: url("Fishermans.ttf") format("TrueType");
 }
 
 /*Sequence 1*/
